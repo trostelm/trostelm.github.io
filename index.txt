@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Max Trostel</title>
+</head>
+<body>
+  <h1>Max Trostel</h1>
+  <p>Second-year graduate student in physics at the University of Texas at Austin.</p>
+  <p><a href="documents/trostel-cv.pdf">curiculum vitae</a></p>
+  <p><a href="https://scholar.google.com/citations?user=mhrZelAAAAAJ&hl=en">Google Scholar</a></p>
+  <h2>Contact</h2>
+  <p>[mylastname]@utexas.edu</p>
+  <h2>Education</h2>
+  <h3>Carleton College 2015 -- 2019</h3>
+  <p>B.A. in Physics (Math minor) cum laude, June 2019</p>
+  <p><strong>Senior thesis:</strong>
+    <i>Predicting the Weather: The Physics of Earth's Atmosphere</i> (<a href="documents/trostel-thesis.pdf">full text</a>)</p>
+  <ul>
+    <li>Advisors: <a href="https://people.carleton.edu/~jweisber/joelhome.html"> Joel M. Weisberg</a>, <a href="https://people.carleton.edu/~arjendu/">Arjendu K. Pattanayak</a></li>
+    <li><a href="https://www.youtube.com/watch?v=UsT2lJp53do">Public talk </a>
+      presented Feb 1, 2019. Awarded Distinction Jun 2019.
+      (<a href="https://www.youtube.com/watch?v=UsT2lJp53do">video</a>)</li>
+  </ul>
+  <h2>Research</h2>
+  <h2>Publications</h2>
+</body>
+</html>
