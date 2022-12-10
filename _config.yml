@@ -83,7 +83,7 @@ author:
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   location         : "Austin, Texas"
   bio              : "Second-year physics graduate student at the University of Texas at Austin."
-  email            : "{my last name} at utexas.edu"
+  email            : "{my last name}@utexas.edu"
   uri              :
   bitbucket        :
   codepen          :
